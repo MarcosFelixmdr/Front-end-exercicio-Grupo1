@@ -160,6 +160,7 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   text-align: center;
   transition: transform 0.3s ease;
+  cursor: pointer;
 }
 
 .card-turismo:hover {
